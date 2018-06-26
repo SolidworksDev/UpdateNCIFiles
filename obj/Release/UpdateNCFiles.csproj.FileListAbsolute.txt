@@ -1,0 +1,9 @@
+C:\Users\tcs4fs.000\Dev\Inventor Release\AdvancedFind\WindowsFormsApplication1\obj\Release\UpdateNCFiles.csprojResolveAssemblyReference.cache
+C:\Users\tcs4fs.000\Dev\Inventor Release\AdvancedFind\WindowsFormsApplication1\obj\Release\UpdateNCFiles.csproj.GenerateResource.Cache
+C:\Users\tcs4fs.000\Dev\Inventor Release\AdvancedFind\WindowsFormsApplication1\bin\Release\UpdateNCFiles.exe.config
+C:\Users\tcs4fs.000\Dev\Inventor Release\AdvancedFind\WindowsFormsApplication1\bin\Release\UpdateNCFiles.exe
+C:\Users\tcs4fs.000\Dev\Inventor Release\AdvancedFind\WindowsFormsApplication1\bin\Release\UpdateNCFiles.pdb
+C:\Users\tcs4fs.000\Dev\Inventor Release\AdvancedFind\WindowsFormsApplication1\obj\Release\UpdateNCFiles.Form1.resources
+C:\Users\tcs4fs.000\Dev\Inventor Release\AdvancedFind\WindowsFormsApplication1\obj\Release\UpdateNCFiles.Properties.Resources.resources
+C:\Users\tcs4fs.000\Dev\Inventor Release\AdvancedFind\WindowsFormsApplication1\obj\Release\UpdateNCFiles.exe
+C:\Users\tcs4fs.000\Dev\Inventor Release\AdvancedFind\WindowsFormsApplication1\obj\Release\UpdateNCFiles.pdb
